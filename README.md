@@ -39,46 +39,7 @@ Currently working at **Akiko Sherman Infotech Pvt. Ltd.** developing government 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
- 
-## 📌 Featured Projects
 
-### 1️⃣ National Pharmaceutical Pricing Authority (Government Project)
-🔗 https://nppa.gov.in/
-
-- Developed government website backend using Laravel
-- Built secure and scalable system architecture
-- Followed government accessibility and security standards
-
----
-
-### 2️⃣ Humsafar Holidays
-🔗 https://humsafarholidays.com/
-
-Travel and tour booking platform.
-
-Features:
-- Tour packages
-- Hotel booking
-- Car rental system
-- Admin panel for managing bookings
-
-Tech Stack:
-Laravel, MySQL, Bootstrap
-
----
-
-### 3️⃣ Sagetalkz (Astrology Platform)
-🔗 https://sagetalkz.com/
-
-Features:
-- Real-time chat and call with astrologers
-- Custom REST APIs for mobile apps
-- Secure Laravel backend
-
-Tech Stack:
-Laravel, Firebase, MySQL
-
----
 
 ## 🎓 Education
 
