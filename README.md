@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 🚀 About Me
 
 I am a **PHP Laravel Developer with 4+ years of experience** building scalable web applications.  
@@ -20,59 +21,25 @@ Currently working at **Akiko Sherman Infotech Pvt. Ltd.** developing government 
 ## 🛠️ Tech Stack
 
 ### Backend
-- PHP
-- Laravel
-- REST API Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ### Frontend
-- HTML
-- CSS
-- Bootstrap
-- React.js
-- jQuery
-- Ajax
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Database
-- MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Services
-- Git & GitHub
-- Firebase
-- Payment Gateway Integration
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Payment Integrations
-- Razorpay
-- Stripe
-- PayPal
-- CCAvenue
-- Paytm
-
----
-
-## 💼 Work Experience
-
-### PHP Laravel Developer  
-**Akiko Sherman Infotech Pvt. Ltd.**  
-Nov 2025 – Present
-
-- Developed and maintained the official **NPPA government website**
-- Built backend systems using **Laravel & PHP**
-- Implemented secure data handling and performance optimization
-- Developed responsive UI using HTML, CSS and Bootstrap
-
----
-
-### PHP Laravel Developer  
-**Invoidea Technology Pvt. Ltd.**  
-Mar 2022 – Oct 2025 | New Delhi
-
-- Designed and developed **RESTful APIs**
-- Integrated multiple **payment gateways**
-- Developed **real-time chat and call functionality using Firebase**
-- Built scalable backend architecture and optimized databases
-
----
-
+ 
 ## 📌 Featured Projects
 
 ### 1️⃣ National Pharmaceutical Pricing Authority (Government Project)
@@ -113,19 +80,6 @@ Laravel, Firebase, MySQL
 
 ---
 
-### 4️⃣ Yards India (Real Estate Platform)
-🔗 https://yardsindia.com/
-
-Features:
-- Property listing
-- Buying / Selling / Renting
-- Multi-role authentication (Admin, Agent, User)
-
-Tech Stack:
-Laravel, React.js, MySQL
-
----
-
 ## 🎓 Education
 
 **BTech – Computer Science**  
@@ -146,5 +100,3 @@ https://www.linkedin.com/in/surajyadav8205
 https://github.com/suryacse2019
 
 ---
-
-⭐ If you like my work, feel free to connect with me.
