@@ -12,9 +12,8 @@
 I am a **PHP Laravel Developer with 4+ years of experience** building scalable web applications.  
 I specialize in **backend development, REST APIs, payment integrations, and database design**.
 
-I have worked on **government projects, travel platforms, real estate systems, and real-time chat applications**.
+I have worked on **government projects, travel platforms, real estate systems, Ecommerce, astrology and real-time chat applications**.
 
-Currently working at **Akiko Sherman Infotech Pvt. Ltd.** developing government web applications.
 
 ---
 
