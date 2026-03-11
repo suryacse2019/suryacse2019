@@ -2,7 +2,7 @@
 
 💻 PHP Laravel Developer | Backend & Full Stack Developer  
 📍 New Delhi, India  
-📧 suryacse2019@gmail.com  
+📧 suryacse2019@gmail.com 
 
 ---
 
