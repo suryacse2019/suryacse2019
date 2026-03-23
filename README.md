@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a **PHP Laravel Developer with 4+ years of experience** building scalable web applications.  
+I am a **PHP Laravel Developer with 3+ years of experience** building scalable web applications.  
 I specialize in **backend development, REST APIs, payment integrations, and database design**.
 
 I have worked on **government projects, travel platforms, real estate systems, Ecommerce, astrology and real-time chat applications**.
@@ -53,8 +53,8 @@ Government College, Bhadohi
 ## 🌐 Connect With Me
 
 📧 Email: suryacse2019@gmail.com  
-💼 LinkedIn:  
-https://www.linkedin.com/in/surajyadav8205
+💼 LinkedIn:https://www.linkedin.com/in/surajyadav8205
+Phone: 7518141123
 
 💻 GitHub:  
 https://github.com/suryacse2019
