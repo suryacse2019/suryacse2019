@@ -13,7 +13,6 @@ I specialize in **backend development, REST APIs, payment integrations, and data
 
 I have worked on **government projects, travel platforms, real estate systems, Ecommerce, astrology and real-time chat applications**.
 
-
 ---
 
 ## 🛠️ Tech Stack
