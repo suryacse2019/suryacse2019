@@ -37,7 +37,6 @@ I have worked on **government projects, travel platforms, real estate systems, E
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-
 ## 🎓 Education
 
 **BTech – Computer Science**  
@@ -54,7 +53,7 @@ Government College, Bhadohi
 💼 LinkedIn:https://www.linkedin.com/in/surajyadav8205
 Phone: 7518141123
 
-💻 GitHub:  
+💻 GitHub:
 https://github.com/suryacse2019
 
 ---
