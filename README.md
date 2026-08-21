@@ -81,16 +81,7 @@
 - **B.Tech, Computer Science** — Madhu Vachaspati Institute of Engineering & Technology (AKTU), 2025 — CGPA 7.9/10
 - **Diploma, Computer Science** — Government College (BTEUP), 2021 — 80%
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
